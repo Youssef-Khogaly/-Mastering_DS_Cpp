@@ -1,0 +1,3 @@
+/home/khogaly/yossef/CppDS/CPP17DS/practise/build/CMakeFiles/vector.dir
+/home/khogaly/yossef/CppDS/CPP17DS/practise/build/CMakeFiles/edit_cache.dir
+/home/khogaly/yossef/CppDS/CPP17DS/practise/build/CMakeFiles/rebuild_cache.dir
